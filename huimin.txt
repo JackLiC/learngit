@@ -1,6 +1,7 @@
 miffy.nxp
 hello lxq
 test commit 2 in same files
+2rd commit 
 three times
 hi 4
 5
