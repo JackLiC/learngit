@@ -1,6 +1,1 @@
-hello
-I am lxq
-a
-2019.07.20.0:29
-0:41
-hi lxq.txt 0:43
+lxq
